@@ -1,9 +1,17 @@
-Blogle
+Blogle WP Theme
 ======
 
-Open Source WordPress Theme
+###Open Source WordPress Theme by my company Wapulo
 
-FEATURES
+###INTRODUCTION
+Blogle is clean and beautiful personal blog theme with responsive layout, elegant styling and a useful Theme Options panel. Blogle theme is content oriented and is very easy to install and setup.
+
+Thanks to Seth Lilly and John O' Nolan for template idea which they made it for another blogging platform called Ghosts (www.ghost.org)
+
+###LIVE PREVIEW
+http://blogle.themes.wapulo.com/
+
+###FEATURES
 WordPress 3.7 Ready
 Responsive (mobile ready) HTML5 + CSS3 Design
 Retina Ready
@@ -17,21 +25,20 @@ Flat Design
 Documentation
 Easy to extend
 
-FONTS
+###FONTS
 Google Web Fonts – Merriweather
 Google Web Fonts – Open Sans
 Google Web Fonts – Roboto
 
-PHOTOS
+###PHOTOS
 Flickr
 
-SOURCES
+###SOURCES
 jQuery – http://jquery.com
 Twitter Bootstrap – http://twitter.github.com/bootstrap
 Normalize.css - git.io/normalize
 Modernizr - www.modernizr.com
 HTML template - https://github.com/sethlilly/Vapor
-Thanks to Seth Lilly and John O' Nolan for template idea
 
-CHANGELOG
+###CHANGELOG
 v1.0 – 30 October 2013 – Initial version
